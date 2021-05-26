@@ -1,1 +1,1 @@
-# eff-java-master
+# eff-java-master git repository.
